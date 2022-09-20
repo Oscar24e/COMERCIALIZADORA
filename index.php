@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Start your development with Pigga landing page.">
     <meta name="author" content="Devcrud">
-    <title>Pigga | Free Bootstrap 4.3.x template</title>
+    <title>BRAYPITER</title>
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <!-- Bootstrap + Pigga main styles -->
@@ -21,7 +21,7 @@
             </a>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-primary" href="#home">Llama al : <span class="pl-2 text-muted">01 800 Me la pelas</span></a>
+                    <a class="nav-link text-primary" href="#home">Llama al : <span class="pl-3 text-muted">01 800 9000</span></a>
                 </li>                   
             </ul>
         </div>
@@ -36,7 +36,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto"> 
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">Horarios de atencion</a>
+                        <a class="nav-link" href="#about">¿Quienes Somos?</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#service">Precios</a>
@@ -87,6 +87,7 @@
             <hr>
             <br>
             <hr>
+            <br>
             <div class="row align-items-center">                
                 <div class="col-md-6">
                     <h6 class="font-weight-bold">Horarios de atención</h6>
@@ -116,12 +117,11 @@
         </div>
     </section>
     <!-- End OF About Section -->
-
     <!-- Service Section -->
-    <section id="service" class="pattern-style-4 has-overlay">
-        <div class="container raise-2">
-            <h6 class="section-subtitle text-center">Featured Food</h6>
-            <h3 class="section-title mb-6 pb-3 text-center">Special Dishes</h3>
+    <section class="has-img-bg">
+        <div class="container">
+            <h6 class="section-subtitle text-center">Los mejores precios</h6>
+            <h3 class="section-title mb-6 pb-3 text-center">Para los mejores clientes</h3>
             <div class="row">
                 <div class="col-md-6 mb-4">
                     <a href="javascrip:void(0)" class="custom-list">
@@ -464,7 +464,7 @@
         <div class="container">
             <div class="row align-items-center text-center text-md-left">
                 <div class="col">
-                    <p class="mb-0 small">&copy; <script>document.write(new Date().getFullYear())</script>, <a href="https://www.devcrud.com" target="_blank">DevCrud</a>  All rights reserved </p> 
+                    <p class="mb-0 small">&copy; <script>document.write(new Date().getFullYear())</script>, <a target="_blank">Oscar & Sebastian</a>  Todos los derechos reservados </p> 
                 </div>
                 <div class="d-none d-md-block">
                     <h6 class="small mb-0">
