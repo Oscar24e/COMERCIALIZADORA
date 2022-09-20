@@ -17,11 +17,11 @@
     <nav class="navbar nav-first navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="assets/imgs/navbar-brand.svg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
+                <img src="assets/imgs/logocarniceria.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
             </a>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-primary" href="#home">Llama al : <span class="pl-3 text-muted">01 800 9000</span></a>
+                    <a class="nav-link text-primary" href="#home">Llama al : <span class="pl-3 text-muted">01 800 Sebastian le gusta a julio</span></a>
                 </li>                   
             </ul>
         </div>
@@ -39,7 +39,7 @@
                         <a class="nav-link" href="#about">¿Quienes Somos?</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#service">Precios</a>
+                        <a class="nav-link" href="#precios">Precios</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#team">Ubicación</a>
@@ -60,7 +60,7 @@
     <!-- Page Header -->
     <header class="header">
         <div class="overlay">
-            <img src="assets/imgs/Uno.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" class="logo">
+            <img src="assets/imgs/logocarniceria.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" class="logo">
             <h2 class="subtitle">COMERCIALIZADORA BRAYPITER S.A. DE C.V.</h2> 
             <!-- <a class="btn btn-primary mt-3" href="sebas.html">Da clic aqui " O " justo en el centro </a>  -->
         </div>      
@@ -73,7 +73,7 @@
                 <div class="col-md-6">
                     <h3 class="section-title">¿Quienes somos?</h3>
                     <p>Somos una comercializadora dedicada 100% a la venta de productos carnicos de la mejor calidad que se le puede ofrecer a nuestros clientes.
-                        
+                        Para asi ellos puedan ofrecer a sus familias lo mejor de lo mejor
                     </p>
                 </div>
                 <div class="col-md-6 order-1 order-sm-first">
@@ -104,7 +104,7 @@
                 <div class="col-md-6">
                     <div class="row">
                         <div class="col">
-                            <img alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" src="assets/imgs/1663112989656.jpeg" class="w-100 rounded shadow">
+                            <img alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" src="assets/imgs/horario.png" class="w-100 rounded shadow">
                         </div>
                         <div class="col">
                             <!-- <img alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" src="assets/imgs/about-2.jpg" class="w-100 rounded shadow"> -->
@@ -118,7 +118,7 @@
     </section>
     <!-- End OF About Section -->
     <!-- Service Section -->
-    <section class="has-img-bg">
+    <section  id = "precios" class="has-img-bg">
         <div class="container">
             <h6 class="section-subtitle text-center">Los mejores precios</h6>
             <h3 class="section-title mb-6 pb-3 text-center">Para los mejores clientes</h3>
@@ -130,11 +130,11 @@
                         </div>
                         <div class="info">
                             <div class="head clearfix">
-                                <h5 class="title float-left">Aperiam incidunt dicta</h5>
-                                <p class="float-right text-primary">$25</p>
+                                <h5 class="title float-left">Cortes Especiales</h5>
+                                <p class="float-right text-primary">$160</p>
                             </div>
                             <div class="body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing Eos, earum dicta est veniam beatae libero!</p>
+                                <p>Proveemos los mejores cortes que te puedas imaginar para esas ocaciones especiales que deseas celebrar.</p>
                             </div>
                         </div>
                     </a>
@@ -146,11 +146,13 @@
                         </div>
                         <div class="info">
                             <div class="head clearfix">
-                                <h5 class="title float-left">Facere molestiae quaerat</h5>
-                                <p class="float-right text-primary">$35</p>
+                                <h5 class="title float-left">Suadero de res</h5>
+                                <p class="float-right text-primary">$180</p>
                             </div>
                             <div class="body">
-                                <p>Voluptatem voluptate ad fugit aliquam, laboriosam neque vero incidunt itaque.</p>
+                                <p>Carne fresca de la mejor calidad como es este suadero de res selecto con su carne llena de proteinas
+                                    y ese porcentaje de grasa sufuciente para una cocción de 10.
+                                </p>
                             </div>
                         </div>
                     </a>
@@ -162,11 +164,13 @@
                         </div>
                         <div class="info">
                             <div class="head clearfix">
-                                <h5 class="title float-left">Veniam Beatae Libero</h5>
-                                <p class="float-right text-primary">$18</p>
+                                <h5 class="title float-left">Longaniza de cerdo</h5>
+                                <p class="float-right text-primary">$120</p>
                             </div>
                             <div class="body">
-                                <p>Accusamus libero quo tempore suscipit molestias qui quam illo facere aspernatur esse! Doloribus?</p>
+                                <p>Longaniza de cerdo de la mejor calidad que se puede ofrecer, obteniendola de la mejor calidad posible como es
+                                    carne 100% fresca y las mejores especies del mercado.
+                                </p>
                             </div>
                         </div>
                     </a>
@@ -227,8 +231,8 @@
     <!-- Menu Section -->
     <section class="has-img-bg">
         <div class="container">
-            <h6 class="section-subtitle text-center">Great Food</h6>
-            <h3 class="section-title mb-6 text-center">Main Menu</h3>
+            <h6 class="section-subtitle text-center">Ventas</h6>
+            <h3 class="section-title mb-6 text-center">Al mayoreo</h3>
             <div class="card bg-light">
                 <div class="card-body px-4 pb-4 text-center">                   
                     <div class="row text-left">
@@ -239,7 +243,7 @@
                                         Dolorem Exmaiores
                                         <p class="mt-1 mb-0">Numquam dolor dolores molestiae maiores quidem.</p>
                                     </div>
-                                    <h6 class="float-right text-primary">$12</h6>
+                                    <!-- <h6 class="float-right text-primary">$12</h6> -->
                                 </div>
                             </a>
                         </div>
@@ -250,7 +254,7 @@
                                         Aperiam incidunt dicta
                                         <p class="mt-1 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                     </div>
-                                    <h6 class="float-right text-primary">$23</h6>
+                                    <!-- <h6 class="float-right text-primary">$23</h6> -->
                                 </div>
                             </a>
                         </div>
@@ -261,7 +265,7 @@
                                         Animi repellat labore
                                         <p class="mt-1 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                     </div>
-                                    <h6 class="float-right text-primary">$32</h6>
+                                    <!-- <h6 class="float-right text-primary">$32</h6> -->
                                 </div>
                             </a>
                         </div>
@@ -272,7 +276,7 @@
                                         Quo ipsum similique 
                                         <p class="mt-2 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                     </div>
-                                    <h6 class="float-right text-primary">$17</h6>
+                                    <!-- <h6 class="float-right text-primary">$17</h6> -->
                                 </div>
                             </a>
                         </div>
@@ -283,7 +287,7 @@
                                         Est nam tempore
                                         <p class="mt-2 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                     </div>
-                                    <h6 class="float-right text-primary">$21</h6>
+                                    <!-- <h6 class="float-right text-primary">$21</h6> -->
                                 </div>
                             </a>
                         </div>
@@ -294,12 +298,12 @@
                                         Nesciunt ab veniam
                                         <p class="mt-2 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                     </div>
-                                    <h6 class="float-right text-primary">$10</h6>
+                                    <!-- <h6 class="float-right text-primary">$10</h6> -->
                                 </div>
                             </a>
                         </div>
                     </div>
-                    <a href="#book-table" class="btn btn-primary mt-4">Book A Table</a>
+                    <!-- <a href="#book-table" class="btn btn-primary mt-4">Book A Table</a> -->
                 </div>
             </div>                  
         </div>
@@ -317,12 +321,12 @@
                         <img src="assets/imgs/chef-1.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                         <h5 class="my-3">Brian Scott</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                        <h6 class="socials mt-3">
+                        <!-- <h6 class="socials mt-3">
                             <a href="javascript:void(0)" class="px-2"><i class="ti-facebook"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-twitter"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-instagram"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-google"></i></a>
-                        </h6>
+                        </h6> -->
                     </div>
                 </div>
                 <div class="col-md-4 my-3">
@@ -330,12 +334,12 @@
                         <img src="assets/imgs/chef-2.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                         <h5 class="my-3">Edward Harris</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                        <h6 class="socials mt-3">
+                        <!-- <h6 class="socials mt-3">
                             <a href="javascript:void(0)" class="px-2"><i class="ti-facebook"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-twitter"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-instagram"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-google"></i></a>
-                        </h6>
+                        </h6> -->
                     </div>
                 </div>
                 <div class="col-md-4 my-3">
@@ -343,12 +347,12 @@
                         <img src="assets/imgs/chef-3.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                         <h5 class="my-3">Richard Reb</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                        <h6 class="socials mt-3">
+                        <!-- <h6 class="socials mt-3">
                             <a href="javascript:void(0)" class="px-2"><i class="ti-facebook"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-twitter"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-instagram"></i></a>
                             <a href="javascript:void(0)" class="px-2"><i class="ti-google"></i></a>
-                        </h6>
+                        </h6> -->
                     </div>
                 </div> 
             </div>
@@ -359,7 +363,6 @@
     <!-- Testmonial Section -->
     <section id="testmonial" class="pattern-style-3">
         <div class="container">
-            <h6 class="section-subtitle text-center">Best Clients</h6>
             <h3 class="section-title mb-5 text-center">Testmonials</h3>
 
             <div class="row">
@@ -369,8 +372,7 @@
                             <div class="media align-items-center mb-3">
                                 <img class="mr-3" src="assets/imgs/avatar.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                                 <div class="media-body">
-                                    <h6 class="mt-1 mb-0">John Doe</h6>
-                                    <small class="text-muted mb-0">Business Analyst</small>     
+                                    <h6 class="mt-1 mb-0">Juan Perez</h6>
                                 </div>
                             </div>
                             <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
@@ -384,7 +386,6 @@
                                 <img class="mr-3" src="assets/imgs/avatar-1.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                                 <div class="media-body">
                                     <h6 class="mt-1 mb-0">Maria Garcia</h6>
-                                    <small class="text-muted mb-0">Insurance Agent</small>      
                                 </div>
                             </div>
                             <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
@@ -397,8 +398,7 @@
                             <div class="media align-items-center mb-3">
                                 <img class="mr-3" src="assets/imgs/avatar-2.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                                 <div class="media-body">
-                                    <h6 class="mt-1 mb-0">Mason Miller</h6>
-                                    <small class="text-muted mb-0">Residential Appraiser</small>        
+                                    <h6 class="mt-1 mb-0">Pedro Juarez</h6>
                                 </div>
                             </div>
                             <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
@@ -446,7 +446,7 @@
         <div class="container">
             <div class="row justify-content-between align-items-center text-center">
                 <div class="col-md-3 text-md-left mb-3 mb-md-0">
-                    <img src="assets/imgs/navbar-brand.svg" width="100" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" class="mb-0">
+                    <img src="assets/imgs/logocarniceria.png" width="100" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" class="mb-0">
                 </div>
                 <div class="col-md-9 text-md-right">
                     <a href="#" class="px-3"><small class="font-weight-bold">Our Company</small></a>
