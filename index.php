@@ -21,7 +21,7 @@
             </a>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-primary" href="#home">Llama al : <span class="pl-3 text-muted">01 800 Sebastian le gusta a julio</span></a>
+                    <a class="nav-link text-primary" href="#home">Llama al : <span class="pl-3 text-muted">01 800 9000</span></a>
                 </li>                   
             </ul>
         </div>
@@ -321,12 +321,7 @@
                         <img src="assets/imgs/chef-1.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                         <h5 class="my-3">Brian Scott</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                        <!-- <h6 class="socials mt-3">
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-facebook"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-twitter"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-instagram"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-google"></i></a>
-                        </h6> -->
+                        
                     </div>
                 </div>
                 <div class="col-md-4 my-3">
@@ -334,12 +329,6 @@
                         <img src="assets/imgs/chef-2.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                         <h5 class="my-3">Edward Harris</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                        <!-- <h6 class="socials mt-3">
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-facebook"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-twitter"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-instagram"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-google"></i></a>
-                        </h6> -->
                     </div>
                 </div>
                 <div class="col-md-4 my-3">
@@ -347,12 +336,6 @@
                         <img src="assets/imgs/chef-3.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
                         <h5 class="my-3">Richard Reb</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                        <!-- <h6 class="socials mt-3">
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-facebook"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-twitter"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-instagram"></i></a>
-                            <a href="javascript:void(0)" class="px-2"><i class="ti-google"></i></a>
-                        </h6> -->
                     </div>
                 </div> 
             </div>
