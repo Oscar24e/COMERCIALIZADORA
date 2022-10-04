@@ -61,7 +61,7 @@
     <header class="header">
         <div class="overlay">
             <img src="assets/imgs/logocarniceria.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" class="logo">
-            <h2 class="subtitle">COMERCIALIZADORA BRAYPITER S.A. DE C.V.</h2> 
+            <h2 class="subtitle">COMERCIALIZADORA BRYPITER S.A. DE C.V.</h2> 
             <!-- <a class="btn btn-primary mt-3" href="sebas.html">Da clic aqui " O " justo en el centro </a>  -->
         </div>      
     </header>
@@ -182,12 +182,12 @@
                         </div>
                         <div class="info">
                             <div class="head clearfix">
-                                <h5 class="title float-left">Incidunt Eius</h5>
-                                <p class="float-right text-primary">$30</p>
+                                <h5 class="title float-left">Costilla de cerdo</h5>
+                                <p class="float-right text-primary">$85</p>
                             </div>
                             <div class="body">
-                                <p>Doloremque maiores tempore, nostrum rerum nihil distinctio expedita voluptates eos deserunt.</p>
-                            </div>
+                                <p>Costillas de cerdo de la mejor calidad y en un precio inigualabre garantizamos que es 100% fresca para la mejor produccion que se desea tener</p>
+                        </div>
                         </div>
                     </a>
                 </div>
@@ -198,11 +198,11 @@
                         </div>
                         <div class="info">
                             <div class="head clearfix">
-                                <h5 class="title float-left">Nihil dDstinctio</h5>
-                                <p class="float-right text-primary">$24</p>
+                                <h5 class="title float-left">Codillo de cerdo</h5>
+                                <p class="float-right text-primary">$85</p>
                             </div>
                             <div class="body">
-                                <p>Doloremque maiores tempore, nostrum rerum expedita incidunt eius voluptates eos deserunt.</p>
+                                <p>Codillo de cerdo un pieza sumamnete exquisita del cerdo el cual cuenta con una gran calidad de carne para su consumo tanto personal como para su venta</p>
                             </div>
                         </div>
                     </a>
@@ -214,11 +214,11 @@
                         </div>
                         <div class="info">
                             <div class="head clearfix">
-                                <h5 class="title float-left">Dignissimos quidem</h5>
-                                <p class="float-right text-primary">$44</p>
+                                <h5 class="title float-left">Costillas de res</h5>
+                                <p class="float-right text-primary">$175</p>
                             </div>
                             <div class="body">
-                                <p>Doloremque maiores tempore, nostrum rerum nihil distinctio expedita voluptates eos deserunt.</p>
+                                <p>Las mejores constillas para poder degustar en una carne asada obteniendo un corte jugoso y muy rico listo para comer en familia o con los amigos</p>
                             </div>
                         </div>
                     </a>
@@ -236,7 +236,7 @@
             <div class="card bg-light">
                 <div class="card-body px-4 pb-4 text-center">                   
                     <div class="row text-left">
-                        <div class="col-md-6 my-4">
+                        <div class="col-md-12 my-4 text-center">
                             <a href="#" class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
                                 <div class="d-flex">
                                     <div class="flex-grow-1">
@@ -247,17 +247,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 my-4">
-                            <a href="#" class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
-                                <div class="d-flex">
-                                    <div class="flex-grow-1">
-                                        Aperiam incidunt dicta
-                                        <p class="mt-1 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                    </div>
-                                    <!-- <h6 class="float-right text-primary">$23</h6> -->
-                                </div>
-                            </a>
-                        </div>
+                        
                         <div class="col-md-6 my-4">
                             <a href="#" class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
                                 <div class="d-flex">
@@ -309,39 +299,6 @@
         </div>
     </section>
     <!-- End of Menu Section -->
-
-    <!-- Team Section -->
-    <section id="team">
-        <div class="container">
-            <h6 class="section-subtitle text-center">Great Team</h6>
-            <h3 class="section-title mb-5 text-center">Talented Chefs</h3>
-            <div class="row">
-                <div class="col-md-4 my-3">
-                    <div class="team-wrapper text-center">
-                        <img src="assets/imgs/chef-1.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
-                        <h5 class="my-3">Brian Scott</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                        
-                    </div>
-                </div>
-                <div class="col-md-4 my-3">
-                    <div class="team-wrapper text-center">
-                        <img src="assets/imgs/chef-2.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
-                        <h5 class="my-3">Edward Harris</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                    </div>
-                </div>
-                <div class="col-md-4 my-3">
-                    <div class="team-wrapper text-center">
-                        <img src="assets/imgs/chef-3.jpg" class="circle-120 rounded-circle mb-3 shadow" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page">
-                        <h5 class="my-3">Richard Reb</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente suscipit, odio nulla reiciendis!</p>
-                    </div>
-                </div> 
-            </div>
-        </div>
-    </section>
-    <!-- End of Team Section -->
 
     <!-- Testmonial Section -->
     <section id="testmonial" class="pattern-style-3">
@@ -395,7 +352,7 @@
 
 
     <!-- Book Table Section -->
-    <section id="book-table" class="bg-white">
+    <section id="team" class="bg-white">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 d-none d-md-block">
@@ -448,14 +405,6 @@
             <div class="row align-items-center text-center text-md-left">
                 <div class="col">
                     <p class="mb-0 small">&copy; <script>document.write(new Date().getFullYear())</script>, <a target="_blank">Oscar & Sebastian</a>  Todos los derechos reservados </p> 
-                </div>
-                <div class="d-none d-md-block">
-                    <h6 class="small mb-0">
-                        <a href="javascript:void(0)" class="px-2"><i class="ti-facebook"></i></a>
-                        <a href="javascript:void(0)" class="px-2"><i class="ti-twitter"></i></a>
-                        <a href="javascript:void(0)" class="px-2"><i class="ti-instagram"></i></a>
-                        <a href="javascript:void(0)" class="px-2"><i class="ti-google"></i></a>
-                    </h6>
                 </div>
             </div>
         </div>
