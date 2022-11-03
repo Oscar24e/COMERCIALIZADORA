@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Start your development with Pigga landing page.">
     <meta name="author" content="Devcrud">
-    <title>BRAYPITER</title>
+    <title>BRYPITER</title>
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <!-- Bootstrap + Pigga main styles -->
@@ -42,17 +42,12 @@
                         <a class="nav-link" href="#precios">Precios</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#team">Ubicación</a>
+                        <a class="nav-link" href="#testmonial">Reseñas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#testmonial">Contactanos</a>
+                        <a class="nav-link" href="#team">Ubicación</a>
                     </li>
                 </ul> 
-                    <!-- <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="components.html" class="btn btn-primary btn-sm">Components</a>
-                        </li>
-                    </ul> -->
             </div>
         </div>
     </nav>
@@ -62,7 +57,6 @@
         <div class="overlay">
             <img src="assets/imgs/logocarniceria.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" class="logo">
             <h2 class="subtitle">COMERCIALIZADORA BRYPITER S.A. DE C.V.</h2> 
-            <!-- <a class="btn btn-primary mt-3" href="sebas.html">Da clic aqui " O " justo en el centro </a>  -->
         </div>      
     </header>
     <!-- End Of Page Header --> 
@@ -90,13 +84,14 @@
             <br>
             <div class="row align-items-center">                
                 <div class="col-md-6">
-                    <h6 class="font-weight-bold">Horarios de atención</h6>
+                    <h6 class="font-weight-bold">Horarios de atención</h6><br>
                     <!-- <h3 class="section-title">Working Times</h3> -->
-                    <p class="mb-1 font-weight-bold">Lunes : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p>
-                    <p class="mb-1 font-weight-bold">Martes : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p>
-                    <p class="mb-1 font-weight-bold">Jueves : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p>
-                    <p class="mb-1 font-weight-bold">Viernes : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p>
-                    <p class="mb-1 font-weight-bold">Sabado : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p>
+                    <p class="mb-1 font-weight-bold">Lunes : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p><br>
+                    <p class="mb-1 font-weight-bold">Martes : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p><br>
+                    <p class="mb-1 font-weight-bold">Miercoles : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p><br>
+                    <p class="mb-1 font-weight-bold">Jueves : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p><br>
+                    <p class="mb-1 font-weight-bold">Viernes : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p><br>
+                    <p class="mb-1 font-weight-bold">Sabado : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p><br>
                     <p class="mb-1 font-weight-bold">Domingo : <span class="font-weight-normal pl-2 text-muted">7:00 am - 4:30 pm</span></p>
 
                     <!-- <a href="#book-table" class="btn btn-primary btn-sm w-md mt-4">Book a table</a> -->
@@ -237,63 +232,96 @@
                 <div class="card-body px-4 pb-4 text-center">                   
                     <div class="row text-left">
                         <div class="col-md-12 my-4 text-center">
-                            <a href="#" class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
+                            <a class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
                                 <div class="d-flex">
                                     <div class="flex-grow-1">
-                                        Dolorem Exmaiores
-                                        <p class="mt-1 mb-0">Numquam dolor dolores molestiae maiores quidem.</p>
+                                        Carnes Selectas
+                                        <p class="mt-1 mb-0">Tenemos los mejores precios que se pueden brindar dentro del mercado</p>
                                     </div>
                                     <!-- <h6 class="float-right text-primary">$12</h6> -->
                                 </div>
                             </a>
                         </div>
                         
-                        <div class="col-md-6 my-4">
-                            <a href="#" class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
+                        <div class="col-md-4 my-4">
+                            <a class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
                                 <div class="d-flex">
                                     <div class="flex-grow-1">
-                                        Animi repellat labore
-                                        <p class="mt-1 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                    Pierna de puerco<br>
+                                    Jamon sin Hueso<br>
+                                    Jamon con Hueso<br>
+                                    Pechos<br>
+                                    Picnic<br>
+                                    Lomo Nacional<br>
+                                    Lomo USA<br>
+                                    Espilomo<br>
+                                    Cabeza de lomo<br>
+                                    Ahumada<br>
+                                    Codillo 
                                     </div>
-                                    <!-- <h6 class="float-right text-primary">$32</h6> -->
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 my-4">
-                            <a href="#" class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
+                        <div class="col-md-2 my-4">
+                            <a class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
                                 <div class="d-flex">
                                     <div class="flex-grow-1">
-                                        Quo ipsum similique 
-                                        <p class="mt-2 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                    $ 80 <br>
+                                    $ 85 <br>
+                                    $ 83 <br>
+                                    $ 88 <br>
+                                    $ 80 <br>
+                                    $ 88 <br>
+                                    $ 86 <br>
+                                    $ 86 <br>
+                                    $ 90 <br>
+                                    $ 82 <br>
+                                    $ 50 
                                     </div>
                                     <!-- <h6 class="float-right text-primary">$17</h6> -->
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 my-4">
-                            <a href="#" class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
+                        <div class="col-md-4 my-4">
+                            <a class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
                                 <div class="d-flex">
                                     <div class="flex-grow-1">
-                                        Est nam tempore
-                                        <p class="mt-2 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                    </div>
+                                    Buche<br>
+                                    Nana<br>
+                                    Mascara<br>
+                                    Lengua<br>
+                                    Cuero<br>
+                                    Cachete<br>
+                                    Papada<br>
+                                    Retazo<br>
+                                    Barriga<br>
+                                    Manitas<br>
+                                    Cabeza
+                                </div>
                                     <!-- <h6 class="float-right text-primary">$21</h6> -->
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 my-4">
-                            <a href="#" class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
+                        <div class="col-md-2 my-4">
+                            <a class="pb-3 mx-3 d-block text-dark text-decoration-none border border-left-0 border-top-0 border-right-0">
                                 <div class="d-flex">
                                     <div class="flex-grow-1">
-                                        Nesciunt ab veniam
-                                        <p class="mt-2 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                    </div>
-                                    <!-- <h6 class="float-right text-primary">$10</h6> -->
+                                    $ 80 <br>
+                                    $ 110 <br>
+                                    $ 40 <br>
+                                    $ 50 <br>
+                                    $ 50 <br>
+                                    $ 60 <br>
+                                    $ 60 <br>
+                                    $ 60 <br>
+                                    $ 75 <br>
+                                    $  <br>
+                                    $          
+                                </div>
                                 </div>
                             </a>
                         </div>
                     </div>
-                    <!-- <a href="#book-table" class="btn btn-primary mt-4">Book A Table</a> -->
                 </div>
             </div>                  
         </div>
@@ -301,10 +329,9 @@
     <!-- End of Menu Section -->
 
     <!-- Testmonial Section -->
-    <section id="testmonial" class="pattern-style-3">
+    <section id="testmonial" class="card bg-light">
         <div class="container">
-            <h3 class="section-title mb-5 text-center">Testmonials</h3>
-
+            <h3 class="section-title mb-5 text-center">Reseñas</h3>
             <div class="row">
                 <div class="col-md-4 my-3 my-md-0">
                     <div class="card">
@@ -315,7 +342,7 @@
                                     <h6 class="mt-1 mb-0">Juan Perez</h6>
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">Pude ya asistir al lugar y me parece uno de los mejores en el mecardo, muy buena atencion y precios justos.</p>
                         </div>
                     </div>
                 </div>
@@ -328,7 +355,7 @@
                                     <h6 class="mt-1 mb-0">Maria Garcia</h6>
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">El lugar me parecio muy limpio, la atencion es de lammejor y claro sus precios son los mejores.</p>
                         </div>
                     </div>
                 </div>
@@ -341,7 +368,7 @@
                                     <h6 class="mt-1 mb-0">Pedro Juarez</h6>
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">A mi punto de vista son los mejores del mercado, me parece muy buenos sus precios ademas de que dan peso exacto.</p>
                         </div>
                     </div>
                 </div>
@@ -358,23 +385,8 @@
                 <div class="col-md-6 d-none d-md-block">
                     <img src="assets/imgs/contact.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page" class="w-100 rounded shadow">
                 </div>
-                <div class="col-md-6">
-                    <form>
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="tel" class="form-control" name="phone" placeholder="Your Phone">
-                        </div>
-                        <div class="form-group">
-                            <input type="datetime-local" class="form-control" name="date">
-                        </div>
-                        <div class="form-group">
-                            <input type="number" class="form-control" name="seats" placeholder="Seats">
-                        </div>
-                        <button type="submit" class="btn btn-primary btn-block">Book A Table</button>
-                        <small class="form-text text-muted mt-3">We don't span customers. Check our <a href="#">Privacy Policy</a></small>
-                    </form>
+                <div class="col-md-5">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d469.7794510082472!2d-99.00421171415532!3d19.61722250353896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2smx!4v1667488973343!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
@@ -395,7 +407,7 @@
                     <a href="components.html" class="pl-3"><small class="font-weight-bold">Components</small></a>
                 </div>
             </div>
-        </div>
+        </div>  
     </div>
     <!-- End of PreFooter Section -->
 
